@@ -1,0 +1,15 @@
+h1 , h2 {
+    color: blueviolet;
+}
+.box > .done {
+    color: red;
+}
+.box li{
+    color: rgb(244, 0, 41);
+}
+li.done {
+    color: rgb(4, 221, 55);
+}
+p.done{
+    font-size: 0.1em;
+}
